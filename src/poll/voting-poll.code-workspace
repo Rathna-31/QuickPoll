@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../DIALOGUE BIRD/dialogue-nest/leapque-nest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "voting-poll"
+	}
+}
